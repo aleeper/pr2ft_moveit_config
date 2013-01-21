@@ -1,0 +1,6 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /wg/stor2a/aleeper/robot_calibrated_2012_12_04_15_19_ft.xml
+  SRDF:
+    relative_path: config/pr2.srdf
